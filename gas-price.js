@@ -10,7 +10,7 @@ BoxJs网址链接：https://boxjs.com 或者新版：https://dompling.github.io/
 BoxJs订阅地址：https://raw.githubusercontent.com/Toperlock/Quantumult/main/boxjs.json
 
 [task_local]
-0 8 * * * https://raw.githubusercontent.com/Crazy-Z7/Task/main/Anhuiyoujia.js, tag=吉林油价, img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/oil.png, enabled=true
+0 8 * * * https://raw.githubusercontent.com/thisThink/mycode/main/gas-price.js, tag=吉林油价, img-url=https://raw.githubusercontent.com/Toperlock/Quantumult/main/icon/oil.png, enabled=true
 ******************************************/
 
 const $ = API("查询油价");
